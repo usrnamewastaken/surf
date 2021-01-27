@@ -213,4 +213,4 @@ static Button buttons[] = {
 	{ OnMedia,      MODKEY,         1,      clickexternplayer, { 0 },       1 },
 };
 
-#define HOMEPAGE "https://searx.bbaovanc.com'
+#define HOMEPAGE "https://www.google.com'
