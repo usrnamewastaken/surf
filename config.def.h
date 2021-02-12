@@ -31,7 +31,7 @@ static Parameter defconfig[ParameterLast] = {
 	[DNSPrefetch]         =       { { .i = 0 },     },
 	[Ephemeral]           =       { { .i = 0 },     },
 	[FileURLsCrossAccess] =       { { .i = 0 },     },
-	[FontSize]            =       { { .i = 12 },    },
+	[FontSize]            =       { { .i = 15 },    },
 	[FrameFlattening]     =       { { .i = 0 },     },
 	[Geolocation]         =       { { .i = 0 },     },
 	[HideBackground]      =       { { .i = 0 },     },
@@ -213,4 +213,4 @@ static Button buttons[] = {
 	{ OnMedia,      MODKEY,         1,      clickexternplayer, { 0 },       1 },
 };
 
-#define HOMEPAGE "https://google.com/"
+#define HOMEPAGE "https://www.google.com/"
